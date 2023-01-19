@@ -2,10 +2,10 @@
 
 🧙‍♂️
 
-- 🌱 Learning smart contracts, React, TypeScript, web3, DeFi, and machine learning.
+- 🌱 Learning backend, smart contracts, React, TypeScript, web3, DeFi, and machine learning.
 - 🛠️ Currently building an [NFT marketplace](https://github.com/evantancy/nft-marketplace)
 - 👯 I’m looking to collab & build web3, DeFi, machine learning projects!
-- 💬 Ask me about: smart contracts, machine learning, computer vision, robotics.
+- 💬 Ask me about: backend, smart contracts, machine learning, computer vision, robotics.
 - 💻 [ML/AI Projects](https://evantancy.github.io/projects) I've worked on.
 - 📫 How to reach me: 
   - [email](mailto:bwr1vxftl@mozmail.com) 
