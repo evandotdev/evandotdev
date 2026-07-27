@@ -2,7 +2,7 @@
 
 📍 Software engineer based in Singapore. 
 
-👷 I build AI products end-to-end - from infrastructure and model pipelines to shipping production SaaS.
+👷 I build products - -> 1 - from infrastructure and model pipelines to shipping production SaaS.
 
 Previously Lead / Founding Software Engineer at [Tensorplex Labs](https://tensorplex.ai), where I designed and shipped [Dojo](https://dojo.network/) (Binance-backed) and grew product revenue from $2M → $3M ARR. Before that: backend at [OKX](https://www.okx.com/), autonomy/computer vision at AIDrivers.
 
