@@ -1,22 +1,23 @@
-# Hey, I'm Evan!
+# 👋 Hey, I'm Evan
 
-🧙‍♂️
+📍 Software engineer based in Singapore. 
+👷 I build AI products end-to-end - from infrastructure and model pipelines to shipping production SaaS.
 
-- 🌱 Learning backend, smart contracts, React, TypeScript, web3, DeFi, and machine learning.
-- 🛠️ Currently building an [NFT marketplace](https://github.com/evantancy/nft-marketplace)
-- 👯 I’m looking to collab & build web3, DeFi, machine learning projects!
-- 💬 Ask me about: backend, smart contracts, machine learning, computer vision, robotics.
-- 💻 [ML/AI Projects](https://evantancy.github.io/projects) I've worked on.
-- 📫 How to reach me: 
-  - [email](mailto:bwr1vxftl@mozmail.com) 
-  - [twitter](https://twitter.com/nat_nave)
+Previously Lead / Founding Software Engineer at [Tensorplex Labs](https://tensorplex.ai), where I designed and shipped [Dojo](https://dojo.network/) (Binance-backed) and grew product revenue from $2M → $3M ARR. Before that: backend at [OKX](https://www.okx.com/), autonomy/computer vision at AIDrivers.
 
-<!--
-**evan-tan/evan-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚧 Currently
+- Shipping [YouTube Transcript](https://youtube-transcript.co/) - speaker-diarized transcripts, AI summaries, and multi-format exports (Next.js, NestJS, PostgreSQL, Stripe)
+- Exploring AI agents, RAG systems, and full-stack product engineering
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- **Tensorplex Labs** — Dojo (human in the loop labelling, SFT/DPO datasets, synthetic UI codegen), Stream (RAG research platform), Kami (Bittensor tooling)
+- **OKX** — growth/affiliate APIs, CRM integrations, scrum lead for a 16-person team
+- **AIDrivers** — computer vision for warehouse PPE compliance
+
+### Stack
+`Python` `TypeScript` `Go` `Java` · `PyTorch` `LangChain` `FastAPI` `Next.js` `NestJS` `React` · `PostgreSQL` `Docker` `AWS` `Grafana`
+
+### Links
+- 🌐 [evantan.dev](https://evantan.dev)
+- 💼 [linkedin.com/in/evandotdev](https://linkedin.com/in/evandotdev)
+- 📫 [me@evantan.dev](mailto:me@evantan.dev)
